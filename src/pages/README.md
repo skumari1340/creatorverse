@@ -29,7 +29,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-[Add your GIF or video link here]
+[Video Walkthrough](https://www.loom.com/share/a9afaac28c28427db923347f09b2b4d5)
 
 ## License
 
